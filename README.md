@@ -71,6 +71,8 @@ The original script introduced the concept of forcing immediate synchronization 
 
 - **✅ Better Automation Compatibility**  
   Uses `Disable-AzContextAutosave` to avoid inheriting contexts in Azure Automation.
+  
+- **✅ Add Custom Managed Identity Automation Compatibility**  
 
 ### Purpose of These Improvements
 
