@@ -94,6 +94,3 @@ This version is designed for scenarios such as:
 
 ---
 
-## 📄 License (Optional)
-
-If you want, a recommended **MIT License** can be added.
