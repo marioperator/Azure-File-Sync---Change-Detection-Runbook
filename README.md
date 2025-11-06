@@ -1,4 +1,5 @@
 # Azure File Sync – Change Detection Runbook
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/284e5670-3e73-4608-99d1-4ec960668d14" />
 
 This repository contains a PowerShell runbook that triggers **Change Detection** on an Azure File Sync Cloud Endpoint using a **User-Assigned Managed Identity**.
 
