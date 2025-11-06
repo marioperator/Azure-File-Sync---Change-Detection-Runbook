@@ -45,17 +45,6 @@ It is designed for automation scenarios where waiting for the default cycle is n
 
 ---
 
-## 📌 Evolution Based on the Original Work
-
-This script is an evolution of the runbook created by **Charbel Nemnom (Microsoft MVP/MCT)**:
-
-**“Enable Immediate Sync with Azure File Sync”**  
-https://charbelnemnom.com/enable-immediate-sync-with-azure-file-sync/
-
-The original script introduced the concept of forcing immediate synchronization via `Invoke-AzStorageSyncChangeDetection`.
-
----
-
 ## ✅ Improvements Introduced in Version 2.0  
 **Author: Mario Mancini**
 
@@ -94,6 +83,16 @@ This version is designed for scenarios such as:
 ├── README.md             # Documentation
 └── .gitignore            # Ignore rules for PowerShell artifacts
 ```
+
+---
+## 📌 Evolution Based on the Original Work
+
+This script is an evolution of the runbook created by **Charbel Nemnom (Microsoft MVP/MCT)**:
+
+**“Enable Immediate Sync with Azure File Sync”**  
+https://charbelnemnom.com/enable-immediate-sync-with-azure-file-sync/
+
+The original script introduced the concept of forcing immediate synchronization via `Invoke-AzStorageSyncChangeDetection`.
 
 ---
 
